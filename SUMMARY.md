@@ -1,4 +1,8 @@
 # Table of contents
 
-* [Page2](README.md)
-* [Page 1](page-1.md)
+* [1주차 HTTP](README.md)
+
+## Group 1
+
+* [Page 1](group-1/page-1.md)
+* [Page 2](group-1/page-2.md)

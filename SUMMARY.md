@@ -1,8 +1,4 @@
 # Table of contents
 
 * [1주차 HTTP](README.md)
-
-## Group 1
-
-* [Page 1](group-1/page-1.md)
-* [Page 2](group-1/page-2.md)
+  * [1. HTTP의 이해](1-http/1.-http.md)

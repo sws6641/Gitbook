@@ -9,3 +9,4 @@
 * [2주차](2/README.md)
   * [1. REST API](2/1.-rest-api.md)
   * [2. URI & MIME type](2/2.-uri-and-mime-type.md)
+  * [3. Collection Pattern](2/3.-collection-pattern.md)

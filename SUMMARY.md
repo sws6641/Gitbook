@@ -10,3 +10,4 @@
   * [1. REST API](2/1.-rest-api.md)
   * [2. URI & MIME type](2/2.-uri-and-mime-type.md)
   * [3. Collection Pattern](2/3.-collection-pattern.md)
+  * [4. Collection pattern 적용](2/4.-collection-pattern.md)

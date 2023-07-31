@@ -14,3 +14,4 @@
   * [5. Spring Web MVC로 구현](week02/5.spring-web-mvc로_구현.md)
 * [3주차](week03/README.md)
   * [1. DTO](week03/1.DTO.md)
+  * [2. Serialization](week03/2.Serialization.md)

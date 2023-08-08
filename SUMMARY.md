@@ -19,3 +19,4 @@
   * [4. CORS](week03/4.CORS.md)
 * [4주차](week04/README.md)
   * [1. Layered Architecture](week04/1.Layered-Architecture.md)
+  * [2. Data Access](week04/2.Data-Access.md)

@@ -28,3 +28,5 @@
   * [4. TDD](week05/4.TDD.md)
 * [6주차](week06/README.md)
   * [1. Database](week06/1.Database.md)
+  * [2. Relational Model](week06/2.Relational-Model.md)
+  * [3. Relational Algerbra](week06/3.Relational-Algerbra.md)

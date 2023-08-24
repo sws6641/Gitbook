@@ -32,3 +32,4 @@
   * [3. Relational Algerbra](week06/3.Relational-Algerbra.md)
   * [4. Entity-Relationship Model](week06/4.Entity-Relationship-Model.md)
   * [5. JDBC](week06/5.JDBC.md)
+  * [6. JdbcTemplate](week06/6.JdbcTemplate.md)

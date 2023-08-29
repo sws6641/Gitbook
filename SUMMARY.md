@@ -35,3 +35,4 @@
   * [6. JdbcTemplate](week06/6.JdbcTemplate.md)
 * [7주차](week07/README.md)
   * [1. ORM](week07/1.ORM.md)
+  * [2. Hibernate](week07/1.Hibernate.md)

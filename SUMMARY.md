@@ -41,3 +41,4 @@
   * [5. Spring Data JPA](week07/5.Spring-Data-JPA.md)
 * [8주차](week08/README.md)
   * [1. DDD](week08/1.DDD.md)
+  * [2. Strategic Design](week08/2.Strategic-Design.md)

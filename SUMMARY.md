@@ -43,3 +43,4 @@
   * [1. DDD](week08/1.DDD.md)
   * [2. Strategic Design](week08/2.Strategic-Design.md)
   * [3. Entity, Value Object](week08/3.Entity_Value-Object.md)
+  * [4. Aggregate](week08/4.Aggregate.md)

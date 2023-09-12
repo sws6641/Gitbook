@@ -45,3 +45,5 @@
   * [3. Entity, Value Object](week08/3.Entity_Value-Object.md)
   * [4. Aggregate](week08/4.Aggregate.md)
   * [5. Repository](week08/5.Repository.md)
+* [9주차](week09/README.md)
+  * [1. SOLID](week09/1.SOLID.md)

@@ -47,3 +47,4 @@
   * [5. Repository](week08/5.Repository.md)
 * [9주차](week09/README.md)
   * [1. SOLID](week09/1.SOLID.md)
+  * [2. Hexagonal Architecture](week09/2.Hexagonal-Architecture.md)

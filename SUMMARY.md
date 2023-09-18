@@ -48,3 +48,5 @@
 * [9주차](week09/README.md)
   * [1. SOLID](week09/1.SOLID.md)
   * [2. Hexagonal Architecture](week09/2.Hexagonal-Architecture.md)
+* [10주차](week010/README.md)
+  * [1. 애플리케이션 수준의 보안](week10/1.애플리케이션-수준의-보안.md)

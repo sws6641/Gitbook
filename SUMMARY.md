@@ -53,4 +53,4 @@
   * [2. 인증](week10/2.인증.md)
   * [3. 로그인&로그아웃](week10/3.로그인&로그아웃.md)
   * [4. 회원가입](week10/4.회원가입.md)
-
+  * [5. JWT & Authority](week10/5.JWT&Authority.md)

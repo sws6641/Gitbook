@@ -60,3 +60,4 @@
   * [3. Cloudinary](week11/3.Cloudinary.md)
 * [12주차](week12/README.md)
   * [1. CQRS](week12/1.CQRS.md)
+  * [2. Redis](week12/2.Redis.md)
